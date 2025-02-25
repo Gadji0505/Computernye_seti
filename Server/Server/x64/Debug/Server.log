@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\s0188265\source\repos\Server\Server\Server.cpp(27,22): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\s0188265\source\repos\Server\Server\Server.cpp(47,23): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  Server.vcxproj -> C:\Users\s0188265\source\repos\Server\x64\Debug\Server.exe

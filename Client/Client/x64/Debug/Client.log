@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\s0188265\source\repos\Client\Client\Client.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\s0188265\source\repos\Client\Client\Client.cpp(38,26): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  Client.vcxproj -> C:\Users\s0188265\source\repos\Client\x64\Debug\Client.exe
